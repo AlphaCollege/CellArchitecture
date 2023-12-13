@@ -56,7 +56,6 @@ AlphaOne 是一个生产级、企业级、金融级的，基于单元化架构�
 - 单元故障转移 CFO, Cell FailOver
 - 单元流量调拨 CTA, Cell Traffic Allocation
 
-
 #### 4.分布式组件
 - 分布式消息队列 DMQ，Distributed Message Queue，RocketMQ/Kafka
 - 分布式缓存服务 DCS，Distributed Cache Service，Redis/Hazelcast/Ignite
@@ -82,9 +81,6 @@ TODO
 
 #### 13.多租户能力 -- 2期
 - xxx
-
-
-
 - xxx
 
 
