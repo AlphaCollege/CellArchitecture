@@ -12,3 +12,6 @@ Gateway部署在机房A，那么默认情况下，去调用A机房的服务是�
 3. 通过自定义的多个路由和负载均衡策略，实现故障转移和容灾切换
 
 demo参见：https://gitee.com/kimmking/registration 
+
+需要定义更多，更复杂的Router和LB，
+并且把Zone的高可用模型考虑进去。
